@@ -7,11 +7,13 @@
 Мой стек:
 
 - HTML and CSS
+- БЭМ
+- Less/Sass
 - JS (ES6)
 - TypeScript
 - React
 - Redux
-- WebPack
+- WebPack, Gulp
 - Jest (тесты)
 - подключение и использование различных библиотек
 
