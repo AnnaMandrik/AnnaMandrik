@@ -6,7 +6,7 @@
 
 Мой стек:
 
-- HTML and CSS
+- HTML и CSS
 - БЭМ
 - Less/Sass
 - JS (ES6)
